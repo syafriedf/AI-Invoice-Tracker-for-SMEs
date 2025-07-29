@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Ignore credentials file
+credentials.json
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Git itself
+.git/
